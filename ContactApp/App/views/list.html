@@ -1,0 +1,14 @@
+﻿<div>
+	<ul class="contact-list">
+		<li ng-repeat="item in items">
+			<h2>{{item.Name}}</h2>
+			<img src="{{item.Photo}}"/>
+			<h4><a href="mailto:{{item.Email}}">{{item.Email}}</a></h4>
+			<span>{{item.Phone}}</span>
+			<br/>
+			<a href="#/edit/{{item.Id}}" class="btn btn-success">Edit</a>
+			<a href="javascript:void()" class="btn btn-danger" ng-click="deleteItem(item.Id)">Delete</a>
+		</li>
+	</ul>
+	<div class="clearfix"></div>
+</div>
