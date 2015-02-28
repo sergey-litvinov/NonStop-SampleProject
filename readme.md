@@ -19,9 +19,9 @@ Android проект, который использовал REST сервис - 
 
 Скриншоты:
 
-![Screenshot](https://github.com/sergey-litvinov/it-nonstop-contactl/NonStop-SampleProject/blob/master/Screenshots/ListPage.png)
+![Screenshot](https://raw.githubusercontent.com/sergey-litvinov/NonStop-SampleProject/master/Screenshots/ListPage.png)
 
-![Screenshot](https://github.com/sergey-litvinov/it-nonstop-contactl/NonStop-SampleProject/blob/master/Screenshots/EditPage.png)
+![Screenshot](https://raw.githubusercontent.com/sergey-litvinov/NonStop-SampleProject/master/Screenshots/EditPage.png)
 
 ---
 This project was done in two hours for ItNonStop conference. Code style and general approach might not be best, but it was the fastest one.
